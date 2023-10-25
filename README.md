@@ -5,8 +5,10 @@ Introduction:
 Welcome to a Super Mario-style 2D game, a fun and educational project created using Pygame and Tiled. This project was inspired by and follows a detailed YouTube tutorial by ClearCode. The code for this game was meticulously crafted by closely following the tutorial's instructions, with the primary aim of comprehending the Pygame library, understanding game mechanics, and mastering the art of building a simple 2D game from scratch
 
 Project Details: 
-•	Credits: I want to emphasize that this project is not a creation of mine but an educational  and fun journey. All credit for this beautiful project goes to ClearCode (more info below)
-•	Learn and enjoy: By getting involved in this project, you can discover all the pygame magics, face all the intricacies of game development and learn how a 2D game is really constructed from scratch. This is my second project involving game development. Check out my other projects if you fell like it! I hope you enjoy this as much as I did!
+
+Credits: I want to emphasize that this project is not a creation of mine but an educational  and fun journey. All credit for this beautiful project goes to ClearCode (more info below)
+
+Learn and enjoy: By getting involved in this project, you can discover all the pygame magics, face all the intricacies of game development and learn how a 2D game is really constructed from scratch. This is my second project involving game development. Check out my other projects if you fell like it! I hope you enjoy this as much as I did!
 
 Check out ClearCode’s work
 
