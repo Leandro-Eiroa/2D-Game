@@ -11,8 +11,10 @@ Project Details:
 Check out ClearCode’s work
 
 If you found this project interesting, please check out all the other awesome work that Clearcode has available:
-•	Youtube: https://www.youtube.com/@ClearCode 
-•	Github: https://github.com/clear-code-projects
+
+Youtube: https://www.youtube.com/@ClearCode 
+
+Github: https://github.com/clear-code-projects
 
 Thank you!!
 
